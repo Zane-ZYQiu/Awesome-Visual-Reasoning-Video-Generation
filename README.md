@@ -20,7 +20,13 @@ A lightweight and curated list of papers on **video reasoning** by **video gener
 
 ## Physical / Causal Reasoning
 
-<!-- Add papers here -->
+- **Do Generative Video Models Understand Physical Principles?** | *Feb 2025*  
+Saman Motamed, Laura Culp, Kevin Swersky, Priyank Jaini, Robert Geirhos  
+📄 [Paper](https://arxiv.org/abs/2501.09038) | 💻 [Project](https://github.com/google-deepmind/physics-IQ-benchmark)
+
+- **How Far is Video Generation from World Model: A Physical Law Perspective** | *Jun 2025*  
+Bingyi Kang, Yang Yue, Rui Lu, Zhijie Lin, Yang Zhao, Kaixin Wang, Gao Huang, Jiashi Feng  
+📄 [Paper](https://arxiv.org/abs/2411.02385) | 💻 [Project](https://phyworld.github.io)
 
 ## Temporal / Predictive Reasoning
 
@@ -44,4 +50,6 @@ Chengzu Li, Zanyi Wang, Jiaang Li, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, D
 
 ## Multimodal / World Model Reasoning
 
-<!-- Add papers here -->
+- **V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning** | *Jun 2025*  
+Mahmoud Assran, Adrien Bardes, David Fan, Quentin Garrido, Russell Howes, Mojtaba Komeili, Matthew Muckley, Ammar Rizvi, Claire Roberts, Koustuv Sinha, Artem Zholus, Sergio Arnaud, Abha Gejji, Ada Martin, Francois Robert Hogan, Daniel Dugas, Piotr Bojanowski, Vasil Khalidov, Patrick Labatut, Francisco Massa, Marc Szafraniec, Kapil Krishnakumar, Yong Li, Xiaodong Ma, Sarath Chandar, Franziska Meier, Yann LeCun, Michael Rabbat, Nicolas Ballas  
+📄 [Paper](https://arxiv.org/abs/2506.09985) | 💻 [Project](https://github.com/facebookresearch/vjepa2)
