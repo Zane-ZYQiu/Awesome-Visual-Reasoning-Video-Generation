@@ -36,7 +36,9 @@ Bingyi Kang, Yang Yue, Rui Lu, Zhijie Lin, Yang Zhao, Kaixin Wang, Gao Huang, Ji
 
 ## Logical / Rule-based Reasoning
 
-<!-- Add papers here -->
+- **RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence** | *Dec 2025*  
+Xuming He, Zehao Fan, Hengjia Li, Fan Zhuo, Hankun Xu, Senlin Cheng, Di Weng, Haifeng Liu, Can Ye, Boxi Wu  
+📄 [Paper](https://arxiv.org/abs/2512.02622) | 💻 [Project](https://hexmseeu.github.io/RULER-Bench-proj/)
 
 ## Chain-of-Visual-Thought Reasoning
 
@@ -57,6 +59,10 @@ Ziqi Huang, Ning Yu, Gordon Chen, Haonan Qiu, Paul Debevec, Ziwei Liu
 - **Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning** | *Jan 2026*  
 Chengzu Li, Zanyi Wang, Jiaang Li, Yi Xu, Han Zhou, Huanyu Zhang, Ruichuan An, Dengyang Jiang, Zhaochong An, Ivan Vulic, Serge Belongie, Anna Korhonen  
 📄 [Paper](https://arxiv.org/abs/2601.21037)
+
+- **Video models are zero-shot learners and reasoners** | *Sep 2025*  
+Thaddaeus Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos  
+📄 [Paper](https://arxiv.org/abs/2509.20328) | 💻 [Project](https://video-zero-shot.github.io/)
 
 - **Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark** | *Oct 2025*  
 Ziyu Guo, Xinyan Chen, Renrui Zhang, Ruichuan An, Yu Qi, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng  
